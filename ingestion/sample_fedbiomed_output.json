@@ -1,0 +1,8 @@
+{
+  "experiment_id": "fbm-exp-001",
+  "model_version": "v6.2.0",
+  "metrics": {
+    "accuracy": 0.91
+  },
+  "institutions": 5
+}
