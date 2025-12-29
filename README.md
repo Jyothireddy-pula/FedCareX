@@ -148,7 +148,6 @@ This launches:
 ## 🎯 Intended Impact
 
 FedCareX aims to enable:
-
 - Trustworthy clinical AI
 - Privacy-first collaboration
 - Scalable healthcare intelligence
